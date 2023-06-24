@@ -21,6 +21,7 @@ When a user navigates to the site for the first time, it can take a minute for t
 Implemented API key and tags as an array. Had to change both the API and the frontend to make the tag array work. I took the post.tags out into a separate function and used the mapping function to iterate through the tags array. I also error checked to make sure that none of the items in the array were empty so that empty gray bubbles wouldn't appear if the user entered too many spaces, etc.
 
 ## Screenshots
-<img width="1300" alt="image" src="https://github.com/dartmouth-cs52-23s/platform-api-ashleyliangg/assets/102703391/a804be3e-ed74-4982-b311-ac90be5c8ad8">
+![screencapture-animal-posts-onrender-2023-06-24-11_29_47](https://github.com/ashleyliangg/animal-posts-api/assets/102703391/3ce30650-29b4-4389-bac0-598c13830ffc)
+
 
 
